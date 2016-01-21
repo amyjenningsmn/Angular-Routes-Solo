@@ -7,17 +7,17 @@ In this assignment we will be using Angular Routes to display information on 3 p
 
 Sample candidates:
 
--Bernie Sanders
+- Bernie Sanders
 
--Hilary Clinton
+- Hilary Clinton
 
--Martin O'Malley
+- Martin O'Malley
 
--Marco Rubio
+- Marco Rubio
 
--Donald Trump
+- Donald Trump
 
--Ted Cruz
+- Ted Cruz
 
 
 
