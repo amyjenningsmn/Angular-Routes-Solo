@@ -11,13 +11,11 @@ Sample candidates:
 
 - Hilary Clinton
 
-- Martin O'Malley
-
-- Marco Rubio
-
 - Donald Trump
 
 - Ted Cruz
+
+- John Kasich
 
 
 
