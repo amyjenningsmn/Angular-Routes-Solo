@@ -28,6 +28,10 @@ app.config(['$routeProvider', '$locationProvider', function($routeProvider, $loc
 
 }])
 
+app.controller('HomeController', function(){
+  this.message = "Home screen content of app here";
+})
+
 app.controller('HillaryController', function(){
   this.message = "Hillary 4 Prez";
 
@@ -43,6 +47,6 @@ app.controller('TedController', function(){
 
 })
 
-app.controller('HomeController', function(){
-  this.message = "Home screen content of app here";
+app.controller('MainController', function(){
+
 })
