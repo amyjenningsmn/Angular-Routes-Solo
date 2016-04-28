@@ -1,0 +1,31 @@
+{
+  "name": "angular-routes-solo",
+  "version": "1.0.0",
+  "description": "Hey everybody!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amyjenningsmn/Angular-Routes-Solo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amyjenningsmn/Angular-Routes-Solo/issues"
+  },
+  "homepage": "https://github.com/amyjenningsmn/Angular-Routes-Solo#readme",
+  "dependencies": {
+    "angular": "^1.5.5",
+    "angular-route": "^1.5.5",
+    "bootstrap": "^3.3.6",
+    "express": "^4.13.4",
+    "grunt": "^1.0.1"
+  },
+  "devDependencies": {
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-uglify": "^1.0.1"
+  }
+}
